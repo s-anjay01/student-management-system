@@ -1,0 +1,22 @@
+{
+  "name": "student-management-system",
+  "version": "2.0.0",
+  "description": "A full-featured MERN Stack Student Management System with rich dashboard, CRUD operations, search, filters, and CSV export.",
+  "scripts": {
+    "server": "cd server && npm start",
+    "client": "cd client && npm run dev",
+    "server:dev": "cd server && nodemon index.js",
+    "client:build": "cd client && npm run build"
+  },
+  "keywords": [
+    "student-management-system",
+    "mern",
+    "react",
+    "express",
+    "mongodb",
+    "bootstrap",
+    "crud"
+  ],
+  "author": "",
+  "license": "MIT"
+}
